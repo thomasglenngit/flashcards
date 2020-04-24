@@ -1,21 +1,16 @@
-.columns {
-  columns: small;
 
+#hide {
+  display: none;
 }
 
-.term {
-  margin: 5px;
-  border: 3px;
-  padding: 4px;
+.panel {
+  border: solid black;
+  padding: 5px;
   float: left;
+  width: 300px;
+  margin: 20px;
+  
 }
 
-.definition {
-  margin: 5px;
-  border: 3px;
-  padding: 4px;
-  float: left;
-  background-color: aqua;
 
-}
 
