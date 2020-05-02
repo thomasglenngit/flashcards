@@ -1,13 +1,13 @@
 
-#hide {
+/* .hide {
   display: none;
-}
+} */
 
 .panel {
   border: solid black;
   padding: 5px;
   float: left;
-  width: 300px;
+  width: 220px;
   margin: 20px;
   
 }
